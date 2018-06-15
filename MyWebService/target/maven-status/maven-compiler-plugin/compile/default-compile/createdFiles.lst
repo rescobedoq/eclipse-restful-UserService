@@ -1,0 +1,4 @@
+com/dlince/model/User.class
+com/dlince/dao/UserDAO.class
+com/dlince/service/Configuration.class
+com/dlince/service/UserService.class
